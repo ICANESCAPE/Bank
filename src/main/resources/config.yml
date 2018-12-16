@@ -1,0 +1,18 @@
+#MySQL - 设置
+Mysql:
+  #IP
+  Host: "localhost"
+  #端口
+  Port: "3306"
+  #数据库名
+  DataBase: "mc_nibabaAl"
+  #账户名
+  User: "root"
+  #密码
+  PassWord: "baba"
+
+Item:
+  1:
+    slot: 1
+    value: 10
+    type: STONE

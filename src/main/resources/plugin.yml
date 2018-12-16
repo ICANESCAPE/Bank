@@ -1,0 +1,4 @@
+name: Bank
+version: ${project.version}
+main: alchemy.bank.Bank
+authors: [alchemy]
